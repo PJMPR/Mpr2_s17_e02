@@ -9,6 +9,7 @@ public class MyTest {
 	@Test
 	public void test() {
 		fail("s13900  ");
+		fail("konflikt");
 		fail("s5609");
 	}
 
